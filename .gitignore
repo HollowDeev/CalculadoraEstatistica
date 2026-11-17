@@ -1,0 +1,31 @@
+# Compilação Java
+*.class
+
+# Logs e arquivos de sistema
+*.log
+hs_err_pid*
+replay_pid*
+
+# Pacotes e binários
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Configurações de IDEs
+.vscode/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+
+# Documentos acadêmicos e relatórios locais
+*.docx
+*.py
+Bases/
+Aprendizado/
+FlatLaf/
+Codigo Bruto/
+soul.md
